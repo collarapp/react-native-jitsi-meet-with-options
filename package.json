@@ -1,7 +1,7 @@
 {
   "name": "react-native-jitsi-meet-with-options",
   "description": "Jitsi Meet SDK wrapper for React Native including token, options and feature flags.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Farhad Eidi",
     "email": "farcom7@gmail.com"

@@ -42,3 +42,8 @@ componentDidMount() {
   }, 1000);
 }
 ```
+
+## Useful Links
+
+All Options :
+[https://pub.dev/packages/jitsi_meet](https://pub.dev/packages/jitsi_meet)

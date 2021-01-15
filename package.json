@@ -1,16 +1,12 @@
 {
   "name": "react-native-jitsi-meet-with-options",
   "description": "Jitsi Meet SDK wrapper for React Native including token, options and feature flags.",
-  "version": "0.1.2",
+  "version": "2.1.1",
   "author": {
-    "name": "Farhad Eidi",
-    "email": "farcom7@gmail.com"
+    "name": "Collar",
+    "email": "ahmadalhasancv@gmail.com"
   },
   "contributors": [],
-  "homepage": "https://github.com/farhadeidi/react-native-jitsi-meet-with-options",
-  "bugs": {
-    "url": "https://github.com/skrafft/react-native-jitsi-meet/issues"
-  },
   "dependencies": {},
   "keywords": [
     "jitsi",
@@ -29,6 +25,6 @@
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/farhadeidi/react-native-jitsi-meet-with-options.git"
+    "url": "https://github.com/collarapp/react-native-jitsi-meet-with-options.git"
   }
 }

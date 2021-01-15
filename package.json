@@ -7,6 +7,10 @@
     "email": "ahmadalhasancv@gmail.com"
   },
   "contributors": [],
+  "homepage": "https://github.com/collarapp/react-native-jitsi-meet-with-options",
+  "bugs": {
+    "url": "https://github.com/skrafft/react-native-jitsi-meet/issues"
+  },
   "dependencies": {},
   "keywords": [
     "jitsi",

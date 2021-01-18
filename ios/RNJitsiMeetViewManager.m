@@ -74,7 +74,7 @@ RCT_EXPORT_METHOD(
             [builder setFeatureFlag:@"server-url-change.enabled" withBoolean:false];
             [builder setFeatureFlag:@"toolbox.alwaysVisible" withBoolean:false];
             [builder setFeatureFlag:@"video-share.enabled" withBoolean:false];
-            [builder setFeatureFlag:@"pip.enabled" withBoolean:true];
+            [builder setFeatureFlag:@"pip.enabled" withBoolean:false];
             [builder setFeatureFlag:@"meeting-name.enabled" withBoolean:true];
             [builder setFeatureFlag:@"tile-view.enabled" withBoolean:true];
             builder.userInfo = _userInfo;
